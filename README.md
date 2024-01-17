@@ -1,5 +1,7 @@
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Development Photo" width="auto" />
+
+
 <!-- Replace the placeholders with your actual information -->
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Development Photo" width="auto" heigth="100px" />
 # Hi there, I'm Md. Razu Ahammmed! 👋
 
 I'm a passionate Frontend Developer with solid skills in HTML, CSS, JavaScript, React, and Firebase. Welcome to my GitHub playground where I turn ideas into code and build awesome things for the web.
@@ -21,8 +23,8 @@ I'm a passionate Frontend Developer with solid skills in HTML, CSS, JavaScript, 
 
 ## 📬 Let's Connect
 
-- 📧 Email: [your.email@example.com](razuahammed7979@gmail.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/md-razu-ahammed-bd)
+- 📧 Email: [razuahammed7979@gmail.com](razuahammed7979@gmail.com)
+- 💼 LinkedIn: [md-razu-ahammed-bd](https://www.linkedin.com/in/md-razu-ahammed-bd)
 
 ## 🌱 What I'm Learning
 
