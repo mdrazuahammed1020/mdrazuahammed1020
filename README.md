@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Development Photo" width="1000" height="auto" />
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Development Photo" width="1000" height="auto" />
 
 <!-- Replace the placeholders with your actual information -->
 # Hi there, I'm Md. Razu Ahammmed! 👋
